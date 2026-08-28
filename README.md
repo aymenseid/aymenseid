@@ -13,7 +13,7 @@
 <h4>◽️💥i am <code>computer science student in<a href="https://www.wu.edu.et/"> Wollo University</a></code>.</h4>
 <h4>◽️💨i am learning <code>fullstack web& app development.</code>
 <h4>◽️🧲i am interested in machine learning,forex trading</h4>
-<h4>◽️Wanna 💬?You can find me on <a href="https://t.me/ousmanseid">Telegram</a>, on <a href="https://www.linkedin.com/in/aymenseid/">LinkedIn</a>, or <a href="mailto:aymenseidamede11@gmail.com">email</a>.</h4>
+<h4>◽️Wanna 💬?You can find me on <a href="https://t.me/aymen_SAL">Telegram</a>, on <a href="https://www.linkedin.com/in/aymenseid/">LinkedIn</a>, or <a href="mailto:aymenseidamede11@gmail.com">email</a>.</h4>
 
 <h2 align="center">🛠 Technologies and Tools I use:</h2>
 
