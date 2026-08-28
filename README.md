@@ -1,6 +1,6 @@
 <h1 align="center"><a target="_blank">
 
-<h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 Ⲟυⲋⲙⲁⲛ </h1>
+<h1 align="center">𝓗𝓔𝓛𝓛𝓞 𝓦𝓞𝓡𝓛𝓓 👋 𝓘 𝓐𝓜 Aymen </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23b710ab&center=true&vCenter=true&width=600&lines=Bonjour+Le+Monde%F0%9F%91%8B%2C+Welcome+to+My+Github+Profile!;I+am+Passionate+frontend+Software+Engineer;come+and+let's+build+the+impossible.">    
@@ -10,10 +10,10 @@
 
 <img src="https://dhboss.com/images/95116-coder.gif" height="290px" align="right" style="max-width: 210%; display: inline-block;" data-target="animated-image.originalImage">
 
-<h4>◽️💥i am <code>Software Engineer student in<a href="https://www.dbu.edu.et/"> Debre Berhan University</a></code>.</h4>
+<h4>◽️💥i am <code>computer science student in<a href="https://www.wu.edu.et/"> Wollo University</a></code>.</h4>
 <h4>◽️💨i am learning <code>fullstack web& app development.</code>
 <h4>◽️🧲i am interested in machine learning,forex trading</h4>
-<h4>◽️Wanna 💬?You can find me on <a href="https://t.me/ousmanseid">Telegram</a>, on <a href="https://www.linkedin.com/in/ousmanseid/">LinkedIn</a>, or <a href="mailto:ousmanseid847@gmail.com">email</a>.</h4>
+<h4>◽️Wanna 💬?You can find me on <a href="https://t.me/ousmanseid">Telegram</a>, on <a href="https://www.linkedin.com/in/aymenseid/">LinkedIn</a>, or <a href="mailto:aymenseidamede11@gmail.com">email</a>.</h4>
 
 <h2 align="center">🛠 Technologies and Tools I use:</h2>
 
